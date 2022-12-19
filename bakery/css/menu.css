@@ -1,0 +1,124 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    margin: 50px;
+    text-align: center;
+    font-family: arial;
+    display :inline-block;
+    padding: 5px;
+
+}
+.price {
+    color: grey;
+    font-size: 22px;
+
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+
+}
+/**.cin {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    display :inline-block;
+    padding: 5px;
+}**/
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+/**.cin button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.cin button:hover {
+    opacity: 0.7;
+
+}
+.ca {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    display :inline-block;
+    padding: 5px;
+}**/
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+/**.ca button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+.ca button:hover {
+    opacity: 0.7;
+}
+.cr {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    display: inline-block;
+    padding: 5px;
+}**/
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+/**.cr button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+
+}
+
+.cr button:hover {
+    opacity: 0.7;
+}**/
